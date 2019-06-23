@@ -1,10 +1,10 @@
 import urllib2 , cookielib , random , re , sys , socket , time , httplib , ssl
 
        #########################################
-       # Author : Debby anggraini ( @ciku370 ) #
-       # Team   : Blackhole Security           #
-       # Date   : 2 - 5 - 2018                 #
-       # Github : https://github.com/ciku370   #
+       # Author : Rain and kenrico( uchil404 ) #
+       # Team   : Indonesian darknet           #
+       # Date   : 24 - 5 - 2019                 #
+       # Github :https://github.com/uchil404   #
        #########################################
 
 if sys.platform == "linux2" or sys.platform == "linux":
