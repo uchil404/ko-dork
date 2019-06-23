@@ -1,7 +1,7 @@
 import urllib2 , cookielib , random , re , sys , socket , time , httplib , ssl
 
        #########################################
-       # Author : Raihan kenrico( uchil404 ) #
+       # Author :   Raihan kenrico( uchil404 ) #
        # Team   : Indonesian darknet           #
        # Date   : 24 - 5 - 2019                 #
        # Github :https://github.com/uchil404   #
