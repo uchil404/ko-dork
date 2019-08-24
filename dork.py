@@ -1,10 +1,13 @@
 import urllib2 , cookielib , random , re , sys , socket , time , httplib , ssl
 
        #########################################
-       # Author :   Raihan kenrico( uchil404 ) #
-       # Team   : Indonesian darknet           #
-       # Date   : 24 - 5 - 2019                #
-       # Github :https://github.com/uchil404   #
+       # Author :raihan kenricho (Mr.uchil404) #
+       #                                       #
+       #                                       #
+       #                                       #
+       # email  : richouchil0@gmail.com        #
+       # Date   : 24 - 8 - 2019                #
+       # Github : https://github.com/uchil404  #
        #########################################
 
 if sys.platform == "linux2" or sys.platform == "linux":
@@ -214,8 +217,8 @@ def cari(inurl , site , maxc):
 if __name__ == "__main__":
 	print ("      "+Y+"  _____       ___           _   ")
 	print (R+" |'+'|"+Y+" |  |  |___  |    \ ___ ___| |_ ")
-	print (R+" (o o)"+Y+" |    -| . | |  |  | . |  _| '_|")
-	print (R+"  (_) "+Y+" |__|__|___| |____/|___|_| |_,_|"+W+" (Uchil)")
+	print (R+" (* *)"+Y+" |    -| . | |  |  | . |  _| '_|")
+	print (R+"  (v) "+Y+" |__|__|___| |____/|___|_| |_,_|"+W+" (c)")
 	print (W+43*"-")
 
 	inurl = raw_input(B+"[?]"+G+" Inurl    "+W+": ")
