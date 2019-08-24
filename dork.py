@@ -1,13 +1,13 @@
 import urllib2 , cookielib , random , re , sys , socket , time , httplib , ssl
 
        #########################################
-       # Author :raihan kenricho (Mr.uchil404) #
-       #                                       #
-       #                                       #
-       #                                       #
-       # email  : richouchil0@gmail.com        #
-       # Date   : 24 - 8 - 2019                #
-       # Github : https://github.com/uchil404  #
+        Author :raihan kenricho (Mr.uchil404) 
+                                              
+                                              
+                          
+        email  : richouchil0@gmail.com        
+        Date   : 24 - 8 - 2019                
+        Github : https://github.com/uchil404  
        #########################################
 
 if sys.platform == "linux2" or sys.platform == "linux":
